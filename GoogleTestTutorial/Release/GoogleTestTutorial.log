@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  GoogleTestTutorial.cpp
+  Generating code
+  All 473 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+gtest.lib(gtest-all.obj) : warning LNK4099: PDB 'gtest.pdb' was not found with 'gtest.lib(gtest-all.obj)' or at 'C:\Users\Kevin Ljung\Documents\C++\PA1460\GoogleTestTutorial\Release\gtest.pdb'; linking object as if no debug info
+  GoogleTestTutorial.vcxproj -> C:\Users\Kevin Ljung\Documents\C++\PA1460\GoogleTestTutorial\Release\GoogleTestTutorial.exe
