@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Test.cpp
+  Generating code
+  All 464 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+gtest.lib(gtest-all.obj) : warning LNK4099: PDB 'gtest.pdb' was not found with 'gtest.lib(gtest-all.obj)' or at 'C:\Users\Kevin Ljung\Documents\C++\PA1460\Test\Release\gtest.pdb'; linking object as if no debug info
+  Test.vcxproj -> C:\Users\Kevin Ljung\Documents\C++\PA1460\Test\Release\Test.exe

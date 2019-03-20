@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\Kevin Ljung\Documents\C++\PA1460\Test\Release\Test.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="GTTest.AssertTrue" Duration="1" />
+    <TestDuration Test="AccountTest.BankValue" Duration="1" />
+    <TestDuration Test="Test.Value" Duration="1" />
+    <TestDuration Test="Test.FirstTest" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
